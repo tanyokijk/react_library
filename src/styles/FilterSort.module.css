@@ -1,0 +1,11 @@
+input {
+  border-radius: 5px;
+  border: 2px solid lightpink;
+  margin-right: 2rem;
+  margin-top: 5px;
+}
+select {
+  border-radius: 5px;
+  border: 2px solid lightpink;
+  margin-right: 2rem;
+}

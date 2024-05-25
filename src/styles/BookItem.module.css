@@ -1,0 +1,10 @@
+.button_delete {
+  
+background-color: none;
+    margin-left: 10px;
+
+}
+.bookItem {
+  display: flex;
+  align-items: center;
+}
